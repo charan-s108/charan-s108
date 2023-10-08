@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-<img width="300" height="150" margin-left="20px" src="https://github.com/charan-s108/charan-s108/blob/main/student_Octodex.png?raw=true" alt="octodex" /><br>
+<img width="150" height="150" margin-left="20px" src="https://github.com/charan-s108/charan-s108/blob/main/gangnamtocat.png?raw=true" alt="octodex" /><br>
 <span> - 🎓 Master's student pursuing a degree in cybersecurity </span><br>
 <span> - 🚀 Tech explorer in the realms of ☁️ Cloud and DevOps </span><br>
 <span> - 🛡️ Cybersecurity enthusiast, guarding the digital world </span><br>
