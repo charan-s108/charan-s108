@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="800px" height = "300px" src="https://github.com/charan-s108/charan-s108/blob/main/github-banner.webp?raw=true" alt="banner" />
+	<img width="1200" height = "300px" src="https://github.com/charan-s108/charan-s108/blob/main/github-banner.webp?raw=true" alt="banner" />
 </div>
 
 <p align="center"> "In the world of 0's and 1's, Open-Source🌟 is the guiding key🗝️,<br>
@@ -10,12 +10,11 @@
 	<img src="https://img.shields.io/github/followers/charan-s108" alt="G.Followers" >
 	<a href="https://www.linkedin.com/in/charan-s108"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="L.Connect"></a>
 	<img src="https://img.shields.io/github/stars/charan-s108?style=social" alt="G.Star" >
-
 </div>
 
 <h2 align="center"> About Me </h2>
 
-<div align="center" style="font-size: 20px; margin-bottom: 10px;"> 
+<div align="center" style="font-size: 20; margin-bottom: 10;"> 
 	"Hello! I'm Charan. Thank you for visiting my GitHub profile.😎" 
 </div>
 
@@ -29,7 +28,7 @@
     <span> 💻 System administrator, ensuring digital ecosystems running smoothly </span><br>
     <span> 🌐 Open-source newbie, actively contributing to open-source projects </span>
   </div>
-  <img width="150" height="150" src="https://github.com/charan-s108/charan-s108/blob/main/gangnamtocat.png?raw=true" alt="octodex" />
+  <img width="150" height="150" src="https://github.com/charan-s108/charan-s108/blob/main/gangnamtocat.png" alt="octodex" />
 </div>
 
 <div align="center">
