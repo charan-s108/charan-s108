@@ -11,16 +11,15 @@
 	"Hello! I'm Charan. Thank you for visiting my GitHub profile.😎" 
 </div>
 
-<img align="right" width="150" height="150" src="https://github.com/charan-s108/charan-s108/blob/main/bouncercat.png?raw=true" alt="octodex" />
-
-<div align="left">
+<div align="center">
+<img width="300" height="150" margin-left="20px" src="https://github.com/charan-s108/charan-s108/blob/main/student_Octodex.png?raw=true" alt="octodex" /><br>
 <span> - 🎓 Master's student pursuing a degree in cybersecurity </span><br>
 <span> - 🚀 Tech explorer in the realms of ☁️ Cloud and DevOps </span><br>
 <span> - 🛡️ Cybersecurity enthusiast, guarding the digital world </span><br>
 <span> - 🤖 AI and ML enthusiast, exploring the wonders of data </span><br>
 <span> - 👾 Red Team engineer, strengthening cybersecurity defenses </span><br>
 <span> - 💻 System administrator, ensuring digital ecosystems running smoothly </span><br>
-<span> - 🌐 Open-source newbie, actively contributing to open-source projects </span><br>
+<span> - 🌐 Open-source newbie, actively contributing to open-source projects </span>
 </div>
 
 <div align="center">
