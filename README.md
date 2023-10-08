@@ -29,7 +29,7 @@
     <span> 💻 System administrator, ensuring digital ecosystems running smoothly </span><br>
     <span> 🌐 Open-source newbie, actively contributing to open-source projects </span>
   </div>
-  <img width="150" height="150" src="C:\Users\chara\Desktop\Readme\octodex\gangnamtocat.png" alt="octodex" />
+  <img width="150" height="150" src="https://github.com/charan-s108/charan-s108/blob/main/gangnamtocat.png?raw=true" alt="octodex" />
 </div>
 
 <div align="center">
