@@ -16,7 +16,7 @@
 
 "Hello! I'm Charan. Thank you for visiting my GitHub profile.😎"
 
-<img width="300" height="300" align="right" margin-left="1000px" src="https://github.com/charan-s108/charan-s108/blob/main/Adacats-1.png" alt="octodex">
+<img width="300" height="300" align="right" src="https://github.com/charan-s108/charan-s108/blob/main/Adacats-1.png" alt="octodex">
 
 - 🎓 Master's student pursuing a degree in cybersecurity
 - 🚀 Tech explorer in the realms of ☁️ Cloud and DevOps
