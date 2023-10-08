@@ -1,16 +1,43 @@
-### Hi there 👋
+<div align="center">
+	<img width="800px" height = "300px" src="C:\Users\chara\Desktop\Readme\github-banner.webp" alt="banner" />
+</div>
 
-<!--
-**charan-s108/charan-s108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> "In the world of 1's and 0's, Open-Source🌟 is the guiding key🗝️,<br>
+<span> As we code for today, we shape the world🌍 of tomorrow." </span> </p>
 
-Here are some ideas to get you started:
+<h2 align="center"> About Me </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" style="font-size: 20px; margin-bottom: 10px;"> 
+	"Hello! I'm Charan. Thank you for visiting my GitHub profile.😎" 
+</div>
+
+<div align="center">
+<span> - 🎓 Master's student pursuing a degree in cybersecurity </span><br>
+<span> - 🚀 Tech explorer in the realms of ☁️ Cloud and DevOps </span><br>
+<span> - 🛡️ Cybersecurity enthusiast, guarding the digital world </span><br>
+<span> - 🤖 AI and ML enthusiast, exploring the wonders of data </span><br>
+<span> - 👾 Red Team engineer, strengthening cybersecurity defenses </span><br>
+<span> - 💻 System administrator, ensuring digital ecosystems running smoothly </span><br>
+<span> - 🌐 Open-source newbie, actively contributing to open-source projects </span><br>
+</div>
+
+<div align="center">
+<h2> Skills </h2>
+<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
+<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
+<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
+<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> 
+<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> 
+<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> 
+<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> 
+<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg'> 
+<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> 
+<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> 
+<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg'> 
+<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gcp.svg'> 
+<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/oracle.svg'> 
+<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> 
+<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> 
+<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> 
+<img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> 
+</div>
