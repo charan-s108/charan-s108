@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="800px" height = "300px" src="https://github.com/charan-s108/charan-s108/blob/main/github-banner.webp" alt="banner" />
+	<img width="800px" height = "300px" src="https://github.com/charan-s108/charan-s108/blob/main/github-banner.webp?raw=true" alt="banner" />
 </div>
 
 <p align="center"> "In the world of 1's and 0's, Open-Source🌟 is the guiding key🗝️,<br>
@@ -11,7 +11,9 @@
 	"Hello! I'm Charan. Thank you for visiting my GitHub profile.😎" 
 </div>
 
-<div align="center">
+<img align="right" width="150" height="150" src="https://github.com/charan-s108/charan-s108/blob/main/bouncercat.png?raw=true" alt="octodex" />
+
+<div align="left">
 <span> - 🎓 Master's student pursuing a degree in cybersecurity </span><br>
 <span> - 🚀 Tech explorer in the realms of ☁️ Cloud and DevOps </span><br>
 <span> - 🛡️ Cybersecurity enthusiast, guarding the digital world </span><br>
