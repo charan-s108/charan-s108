@@ -2,8 +2,16 @@
 	<img width="800px" height = "300px" src="https://github.com/charan-s108/charan-s108/blob/main/github-banner.webp?raw=true" alt="banner" />
 </div>
 
-<p align="center"> "In the world of 1's and 0's, Open-Source🌟 is the guiding key🗝️,<br>
+<p align="center"> "In the world of 0's and 1's, Open-Source🌟 is the guiding key🗝️,<br>
 <span> As we code for today, we shape the world🌍 of tomorrow." </span> </p>
+
+<div align="center">
+	<img src="https://visitor-badge.laobi.icu/badge?page_id=charan-s108.charan-s108" alt="visitors" />
+	<img src="https://img.shields.io/github/followers/charan-s108" alt="G.Followers" >
+	<a href="https://www.linkedin.com/in/charan-s108"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="L.Connect"></a>
+	<img src="https://img.shields.io/github/stars/charan-s108?style=social" alt="G.Star" >
+
+</div>
 
 <h2 align="center"> About Me </h2>
 
@@ -11,15 +19,17 @@
 	"Hello! I'm Charan. Thank you for visiting my GitHub profile.😎" 
 </div>
 
-<div align="center">
-<img width="150" height="150" margin-left="20px" src="https://github.com/charan-s108/charan-s108/blob/main/gangnamtocat.png?raw=true" alt="octodex" /><br>
-<span> - 🎓 Master's student pursuing a degree in cybersecurity </span><br>
-<span> - 🚀 Tech explorer in the realms of ☁️ Cloud and DevOps </span><br>
-<span> - 🛡️ Cybersecurity enthusiast, guarding the digital world </span><br>
-<span> - 🤖 AI and ML enthusiast, exploring the wonders of data </span><br>
-<span> - 👾 Red Team engineer, strengthening cybersecurity defenses </span><br>
-<span> - 💻 System administrator, ensuring digital ecosystems running smoothly </span><br>
-<span> - 🌐 Open-source newbie, actively contributing to open-source projects </span>
+<div style="display: flex; justify-content: center; align-items: center; text-align: left;">
+  <div>
+    <span> 🎓 Master's student pursuing a degree in cybersecurity </span><br>
+    <span> 🚀 Tech explorer in the realms of ☁️ Cloud and DevOps </span><br>
+    <span> 🛡️ Cybersecurity enthusiast, guarding the digital world </span><br>
+    <span> 🤖 AI and ML enthusiast, exploring the wonders of data </span><br>
+    <span> 👾 Red Team engineer, strengthening cybersecurity defenses </span><br>
+    <span> 💻 System administrator, ensuring digital ecosystems running smoothly </span><br>
+    <span> 🌐 Open-source newbie, actively contributing to open-source projects </span>
+  </div>
+  <img width="150" height="150" src="C:\Users\chara\Desktop\Readme\octodex\gangnamtocat.png" alt="octodex" />
 </div>
 
 <div align="center">
