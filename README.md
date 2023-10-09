@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="800" height="300px" src="https://github.com/charan-s108/charan-s108/blob/main/github-banner.webp?raw=true" alt="banner">
+    <img width="800" height="300px" src="https://github.com/charan-s108/charan-s108/blob/main/github-banner.png?raw=true" alt="banner">
 </div>
 
 <p align="center"> "In the world of 0's and 1's, Open-Source🌟 is the guiding key🗝️,<br>
