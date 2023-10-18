@@ -45,3 +45,7 @@
     <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">
     <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg">
 </div>
+
+## Achievements
+
+[![An image of @charan_s108's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/charan_s108)](https://holopin.io/@charan_s108)
