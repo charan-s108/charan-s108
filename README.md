@@ -82,20 +82,6 @@
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kaggle.svg" width="32px" height="32px" />
 </div>
 
-## GSSOC(24) Badges
-
-<div align='center'>
-    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="80px" height="80px" />
-    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/1.png" width="80px" height="80px" />
-    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/2.png" width="80px" height="80px" />
-    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/3.png" width="80px" height="80px" />
-    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/4.png" width="80px" height="80px" />
-    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/5.png" width="80px" height="80px" />
-    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/6.png" width="80px" height="80px" />
-    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/7.png" width="80px" height="80px" />
-    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/8.png" width="80px" height="80px" />
-</div>
-
 ## Hacktoberfest24 Badges
 
 [![An image of @charan_s108's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/charan_s108)](https://holopin.io/@charan_s108)
